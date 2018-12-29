@@ -58,10 +58,4 @@
 
 ### 结果图
 
-![](./output/output_style5_2000.jpg)
-
-## 参考
-
--《深度有趣：图像风格迁移》—— 张宏伦
-- [下载](https://pan.baidu.com/s/12807YaM2nJiUqTT_PF_DkA) imagenet-vgg-verydeep-19.mat
-
+![](./output/output_style3_2000.jpg)
